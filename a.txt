@@ -2,3 +2,4 @@ Testante
 uma
 atualizacao
 nova
+do clone
